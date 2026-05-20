@@ -1,1 +1,13 @@
-# bbb
+#<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="refresh" content="0; url=https://lin.ee/VjYaSYu">
+  <title>Redirect</title>
+</head>
+<body>
+  <script>
+    window.location.href = "https://lin.ee/VjYaSYu";
+  </script>
+</body>
+</html>
